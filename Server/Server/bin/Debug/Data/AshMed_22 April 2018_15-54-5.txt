@@ -1,0 +1,12 @@
+AshMed
+Protocol Used:UDP
+Packet Send:409
+Packet Recieved:198
+Packet Back Log:2
+Packet Send Rate: 20
+Number of Packets Missed: 0
+Number of Packets Late: 0
+
+Missed Packet Types: 
+
+Late Packet Types: 

@@ -1,0 +1,12 @@
+Tom
+Protocol Used:UDP
+Packet Send:319
+Packet Recieved:286
+Packet Back Log:1
+Packet Send Rate: 20
+Number of Packets Missed: 0
+Number of Packets Late: 0
+
+Missed Packet Types: 
+
+Late Packet Types: 

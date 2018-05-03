@@ -1,0 +1,10 @@
+E:\FYP\Artefact\Final Year Project\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\FYP\Artefact\Final Year Project\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\FYP\Artefact\Final Year Project\Server\Server\Server\bin\Debug\Server.exe.config
+E:\FYP\Artefact\Final Year Project\Server\Server\Server\bin\Debug\Server.exe
+E:\FYP\Artefact\Final Year Project\Server\Server\Server\bin\Debug\Server.pdb
+E:\FYP\Artefact\Final Year Project\Server\Server\Server\bin\Debug\MySql.Data.dll
+E:\FYP\Artefact\Final Year Project\Server\Server\Server\bin\Debug\MySql.Data.xml
+E:\FYP\Artefact\Final Year Project\Server\Server\Server\obj\Debug\Server.exe
+E:\FYP\Artefact\Final Year Project\Server\Server\Server\obj\Debug\Server.pdb
+E:\FYP\Artefact\Final Year Project\Server\Server\Server\bin\Debug\protobuf-net.xml

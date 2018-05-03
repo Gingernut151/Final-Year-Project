@@ -1,0 +1,13 @@
+Harold
+Protocol Used:TCP
+Packet Send:536
+Packet Recieved:708
+Packet Back Log:1
+Packet Send Rate: 20
+Number of Packets Missed: 0
+Number of Packets Late: 1
+
+Missed Packet Types: 
+
+Late Packet Types: 
+PLAYERPOS

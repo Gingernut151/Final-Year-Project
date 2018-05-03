@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ServerLibrary.Server">
+    <Position X="16.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAAACAAAAAAgAAIABAAAAgAAAAAJBAAAAABBAA=</HashCode>
+      <FileName>Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerLibrary.ServerClient">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAAAAUAAAAAAAAAACAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ServerClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerLibrary.TCPClient">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACACABAAAUAAAAAAAAAAAAAAIAAAQAAAAJA=</HashCode>
+      <FileName>ServerClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerLibrary.UDPClient">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACABAAAUAACAAAAAAAAAAAIAAAIAAAAAA=</HashCode>
+      <FileName>ServerClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerLibrary.ServerConnection">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAgAAAAACAAABAAAQAIQBAAEAgQCgAAJAAAAAAgAEg=</HashCode>
+      <FileName>ServerConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerLibrary.ServerConnectionTCP">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAAAACACABEAAQEIABAAAAgAAgAAJAAAoAAgAAA=</HashCode>
+      <FileName>ServerConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerLibrary.ServerConnectionUDP">
+    <Position X="15" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IwAAAAAAACACABAAQQAIBBAAAAgAAgAAJAAAIAAgAAA=</HashCode>
+      <FileName>ServerConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerLibrary.ServerListener">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ServerListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerLibrary.ServerListenerTCP">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACACEAAAAAAAAAAAAAgAAAAAIAAAQAAAAAA=</HashCode>
+      <FileName>ServerListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerLibrary.ServerListenerUDP">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAYAAAAACACAAAAAAAAAAAAAAAAIAAAIAAAAAAAAgA=</HashCode>
+      <FileName>ServerListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
